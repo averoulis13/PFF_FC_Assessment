@@ -5,3 +5,4 @@ Included in this repository is a .ipynb file with code for the data cleaning, ex
 
 In terms of running the .ipynb file, I ran it in Jupyter notebook, where I created a project folder called PFF_FC_Project and had the aforementioned file structure. This way, I was able to use relative file paths to load data files. It did take some time to load certain data files, but as long as you configure the data files in a folder called data files, and that (as well as the .ipynb file) are contained within the PFF_FC_Project folder, then things should run smoothly. 
 
+I also included a few prompts I used to prompt ChatGPT as screenshot in the GPT Screenshots folder.
